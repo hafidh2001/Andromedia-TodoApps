@@ -32,7 +32,7 @@ body {
   }
 
   .text-note {
-    @apply m-1 p-1 basis-4/5 font-normal text-base text-slate-50 cursor-pointer hover:text-slate-800;
+    @apply m-1 p-1 basis-4/5 font-normal text-base text-slate-50 cursor-pointer;
   }
 
   .card-edit {
